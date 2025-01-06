@@ -32,6 +32,7 @@ jobs:
         with:
           # Jenkins URL including http/https protocol
           url: https://90db-67-173-251-28.ngrok-free.app
-
+          api_token: helloWorldCamToken
+          job_name: sb
          
                 
