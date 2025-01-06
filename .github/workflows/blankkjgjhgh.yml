@@ -33,5 +33,6 @@ jobs:
           # Jenkins job name to build
           job_name: jenky
           # Jenkins username
-          username: admin
+          jenkins_user: admin
+          jenkins_user_pass: 1234
                 
