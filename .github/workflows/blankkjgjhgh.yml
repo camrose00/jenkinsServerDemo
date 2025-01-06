@@ -33,4 +33,5 @@ jobs:
           # Jenkins job name to build
           job_name: jenky
           # Jenkins username
+          username: admin
                 
