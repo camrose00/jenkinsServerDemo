@@ -29,7 +29,7 @@ jobs:
         uses: amitsadafule/jenkins-build-github-action@v1.0.1
         with:
           # Jenkins URL including http/https protocol
-          url: https://90db-67-173-251-28.ngrok-free.app
+          jenkins_url: https://90db-67-173-251-28.ngrok-free.app
           # Jenkins job name to build
           job_name: jenky
           # Jenkins username
