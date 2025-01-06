@@ -31,7 +31,7 @@ jobs:
         uses: joshlk/jenkins-githubaction@V0.0.1
         with:
           # Jenkins URL including http/https protocol
-          url: https://90db-67-173-251-28.ngrok-free.app/job/sb/buildByToken?build=sb&token=hello
+          url: https://90db-67-173-251-28.ngrok-free.app/buildByToken/build?job=sb&token=11dd2189abb880d4bbff87341cba6cd638
           api_token: 11dd2189abb880d4bbff87341cba6cd638
           job_name: sb
           username: admin
