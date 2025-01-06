@@ -26,7 +26,7 @@ jobs:
       - name: Jenkins-Action
   # You may pin to the exact commit or the version.
   # uses: joshlk/jenkins-githubaction@8ef510cf2dfb3affe8cbdfef1898b23c28847f39
-        uses: joshlk/jenkins-githubaction@V0.0.1
+        uses: amitsadafule/jenkins-build-github-action@v1.0.1
         with:
           # Jenkins URL including http/https protocol
           url: https://90db-67-173-251-28.ngrok-free.app
